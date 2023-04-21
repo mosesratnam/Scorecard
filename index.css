@@ -1,0 +1,54 @@
+body {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    background: rgb(33, 33, 90);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: aliceblue;
+    margin: 0 auto 10px;
+}
+
+.score {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-weight: 700;
+    font-size: 90px;
+    background:black;
+    margin: 0 auto 20px;
+    color: red;
+    padding-top: 15px;
+}
+
+.container {
+    text-align: center;
+    width: 160px;
+    height:60vh; 
+}
+
+#home-container {
+    margin-right: 35px;
+}
+
+.score-btn {
+    width: 46px;
+    height: 46px;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    border: 2px solid #9AABD8;
+    border-radius:3px;
+    background:rgb(33, 33, 90);
+    color: #9AABD8;
+}
+
+
+
